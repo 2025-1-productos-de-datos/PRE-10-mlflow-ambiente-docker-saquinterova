@@ -1,8 +1,8 @@
 name: Proyecto de demostracion
 
-docker_env:
-    image:  saquinterova/mlflow:example
-    build_context: .
+# docker_env:
+#     image:  saquinterova/mlflow:example
+#     build_context: .
 
 entry_points:
     elasticnet:
